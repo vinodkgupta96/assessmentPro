@@ -1,0 +1,18 @@
+https://stackoverflow.com/questions/47994519/unable-find-entity-while-trying-to-save-data
+
+-https://stackoverflow.com/questions/47994519/unable-find-entity-while-trying-to-save-data
+\ No newline at end of file
++https://stackoverflow.com/questions/47994519/unable-find-entity-while-trying-to-save-data
++
++
++
++https://github.com/vinodkgupta96/assessment.git
++https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000544640-Github-integration-issues -> https://stackoverflow.com/questions/783811/getting-git-to-work-with-a-proxy-server
++
++JSP Knowledge
++https://www.javatpoint.com/jsp-scriptlet-tag
++
++https://www.javatpoint.com/jsp-page-directive
++
++
++https://www.google.com/search?q=difference+between+JAVA+EE+and+spring&rlz=1C1GCEU_enIN825IN825&oq=difference+between+JAVA+EE+and+spring+&aqs=chrome..69i57.11071j0j7&sourceid=chrome&ie=UTF-8

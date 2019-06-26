@@ -9,5 +9,4 @@ public class AssessmentproCorecomponentsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AssessmentproCorecomponentsApplication.class, args);
 	}
-
 }
